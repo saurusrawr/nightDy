@@ -1,5 +1,5 @@
 # Pterodactyl Dark Theme Installer
-[![Logo](https://telegra.ph/file/62938cc14bd7265539926.png)](https://github.com/yourusername/yourrepository)
+[![Logo](https://img2.pixhost.to/images/5877/697318036_alip-1771516343149.jpg)](https://github.com/saurusrawr/nightDy)
 
 This script installs a dark theme for the Pterodactyl game server management panel.
 
